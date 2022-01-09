@@ -9,7 +9,9 @@ refactoring code to improve performance via ARRAYS over nested FOR loops.
 
 ## Results
 
-By making use of three Arrays:
-```tickerVolumes(), tickerStartingPrices(), tickerEndingPrices()```
+By making use of three Arrays:```tickerVolumes(), tickerStartingPrices(), tickerEndingPrices()``` a nested FOR loop was able to be removed. This
+resulted in the program only having to pass through the Worksheet data once. The reduction in processing time was the following:
+![2017](Resources/VBA_Challenge_2017.png)
+![2018](Resources/VBA_Challenge_2018.png)
 
 
