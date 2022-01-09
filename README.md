@@ -16,4 +16,4 @@ The reduction in processing time was the following:
 ![2017](/VBA_Challenge_2017.png)
 ![2018](/VBA_Challenge_2018.png)
 
-
+By comparison using a nested FOR loop, the 2017 and 2018 processing times were 1.175781 seconds apiece.
